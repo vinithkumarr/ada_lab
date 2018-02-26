@@ -1,3 +1,7 @@
+BREADTH FIRST SEARCH
+
+AIM: Print all the nodes reachable from a given starting node in a diagraph using BFS method.
+
 #include<stdio.h>
 #include<stdlib.h>
  
